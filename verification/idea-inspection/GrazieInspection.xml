@@ -1,0 +1,105 @@
+<problems is_local_tool="true">
+<problem>
+  <file>file://$PROJECT_DIR$/index.html</file>
+  <line>54</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/index.html" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>This word is normally spelled with a hyphen.</description>
+  <highlighted_element>mini game</highlighted_element>
+  <language>HTML</language>
+  <offset>36</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/AI_SHOWCASE.md</file>
+  <line>9</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/AI_SHOWCASE.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>This word is normally spelled with a hyphen.</description>
+  <highlighted_element>mini game</highlighted_element>
+  <language>Markdown</language>
+  <offset>44</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>25</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>This word is normally spelled with a hyphen.</description>
+  <highlighted_element>mini game</highlighted_element>
+  <language>Markdown</language>
+  <offset>48</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>30</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Use a comma before 'and' if it connects two independent clauses (unless they are closely connected and short).</description>
+  <highlighted_element>and</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>32</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>A determiner may be missing.</description>
+  <highlighted_element>, best</highlighted_element>
+  <language>Markdown</language>
+  <offset>69</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>77</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Consider using the plural form here.</description>
+  <highlighted_element>IDEA's</highlighted_element>
+  <language>Markdown</language>
+  <offset>34</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>3</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>This word is normally spelled with a hyphen.</description>
+  <highlighted_element>mini game</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>42</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>A determiner may be missing.</description>
+  <highlighted_element>, best</highlighted_element>
+  <language>Markdown</language>
+  <offset>47</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>100</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Would you like to insert '©'?</description>
+  <highlighted_element>(c)</highlighted_element>
+  <language>Markdown</language>
+  <offset>31</offset>
+  <length>3</length>
+</problem>
+</problems>

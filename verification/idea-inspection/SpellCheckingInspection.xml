@@ -1,0 +1,859 @@
+<problems is_local_tool="true">
+<problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/JSUnusedGlobalSymbols.xml</file>
+  <line>8</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/JSUnusedGlobalSymbols.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bestComboMult'</description>
+  <highlighted_element>bestComboMult</highlighted_element>
+  <language>XML</language>
+  <offset>31</offset>
+  <length>13</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/JSUnusedGlobalSymbols.xml</file>
+  <line>9</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/JSUnusedGlobalSymbols.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'bestComboMult'</description>
+  <highlighted_element>bestComboMult</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/style.css</file>
+  <line>10</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/style.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ffffff'</description>
+  <highlighted_element>ffffff</highlighted_element>
+  <language>TEXT</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/style.css</file>
+  <line>29</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/style.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Segoe'</description>
+  <highlighted_element>Segoe</highlighted_element>
+  <language>TEXT</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/style.css</file>
+  <line>29</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/style.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Neue'</description>
+  <highlighted_element>Neue</highlighted_element>
+  <language>TEXT</language>
+  <offset>72</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/style.css</file>
+  <line>84</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/style.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'nums'</description>
+  <highlighted_element>nums</highlighted_element>
+  <language>TEXT</language>
+  <offset>32</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/style.css</file>
+  <line>388</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/style.css" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ecff'</description>
+  <highlighted_element>ecff</highlighted_element>
+  <language>TEXT</language>
+  <offset>42</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/index.html</file>
+  <line>72</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/index.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'CALLSIGN'</description>
+  <highlighted_element>CALLSIGN</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/index.html</file>
+  <line>74</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/index.html" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>127</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml</file>
+  <line>7</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JSJQueryEfficiency'</description>
+  <highlighted_element>JSJQueryEfficiency</highlighted_element>
+  <language>XML</language>
+  <offset>21</offset>
+  <length>18</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml</file>
+  <line>18</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JSJQueryEfficiency'</description>
+  <highlighted_element>JSJQueryEfficiency</highlighted_element>
+  <language>XML</language>
+  <offset>21</offset>
+  <length>18</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml</file>
+  <line>29</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JSJQueryEfficiency'</description>
+  <highlighted_element>JSJQueryEfficiency</highlighted_element>
+  <language>XML</language>
+  <offset>21</offset>
+  <length>18</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml</file>
+  <line>40</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/JSJQueryEfficiency.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'JSJQueryEfficiency'</description>
+  <highlighted_element>JSJQueryEfficiency</highlighted_element>
+  <language>XML</language>
+  <offset>21</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/AI_SHOWCASE.md</file>
+  <line>20</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/AI_SHOWCASE.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>Markdown</language>
+  <offset>3</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/AI_SHOWCASE.md</file>
+  <line>57</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/AI_SHOWCASE.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ffmpeg'</description>
+  <highlighted_element>ffmpeg</highlighted_element>
+  <language>Markdown</language>
+  <offset>43</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>1</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>97</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>Markdown</language>
+  <offset>56</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/SUBMISSION.md</file>
+  <line>101</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/SUBMISSION.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>Markdown</language>
+  <offset>51</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>29</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'skyclutch'</description>
+  <highlighted_element>skyclutch</highlighted_element>
+  <language>TEXT</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>48</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'mctx'</description>
+  <highlighted_element>mctx</highlighted_element>
+  <language>TEXT</language>
+  <offset>6</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>290</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'hypot'</description>
+  <highlighted_element>hypot</highlighted_element>
+  <language>TEXT</language>
+  <offset>35</offset>
+  <length>5</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>330</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'efff'</description>
+  <highlighted_element>efff</highlighted_element>
+  <language>TEXT</language>
+  <offset>28</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>700</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pointerdown'</description>
+  <highlighted_element>pointerdown</highlighted_element>
+  <language>TEXT</language>
+  <offset>25</offset>
+  <length>11</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>704</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'contextmenu'</description>
+  <highlighted_element>contextmenu</highlighted_element>
+  <language>TEXT</language>
+  <offset>24</offset>
+  <length>11</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>759</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'visibilitychange'</description>
+  <highlighted_element>visibilitychange</highlighted_element>
+  <language>TEXT</language>
+  <offset>27</offset>
+  <length>16</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/game.js</file>
+  <line>804</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/game.js" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'SKYCLUTCH'</description>
+  <highlighted_element>SKYCLUTCH</highlighted_element>
+  <language>TEXT</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>8</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'urllib'</description>
+  <highlighted_element>urllib</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>9</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'urllib'</description>
+  <highlighted_element>urllib</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>19</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pathlib'</description>
+  <highlighted_element>pathlib</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>20</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pathlib'</description>
+  <highlighted_element>pathlib</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>41</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'urlopen'</description>
+  <highlighted_element>urlopen</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>42</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'urlopen'</description>
+  <highlighted_element>urlopen</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>52</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Popen'</description>
+  <highlighted_element>Popen</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>5</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>53</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Popen'</description>
+  <highlighted_element>Popen</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>5</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>63</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'DEVNULL'</description>
+  <highlighted_element>DEVNULL</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>64</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'DEVNULL'</description>
+  <highlighted_element>DEVNULL</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>74</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pageerror'</description>
+  <highlighted_element>pageerror</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>75</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pageerror'</description>
+  <highlighted_element>pageerror</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>85</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'requestfailed'</description>
+  <highlighted_element>requestfailed</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>13</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>86</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'requestfailed'</description>
+  <highlighted_element>requestfailed</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>13</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>96</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'SKYCLUTCH'</description>
+  <highlighted_element>SKYCLUTCH</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>97</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'SKYCLUTCH'</description>
+  <highlighted_element>SKYCLUTCH</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>107</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'gameover'</description>
+  <highlighted_element>gameover</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>108</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'gameover'</description>
+  <highlighted_element>gameover</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>119</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'CALLSIGN'</description>
+  <highlighted_element>CALLSIGN</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>120</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'CALLSIGN'</description>
+  <highlighted_element>CALLSIGN</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>130</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>131</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>142</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>143</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>153</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ffmpeg'</description>
+  <highlighted_element>ffmpeg</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>154</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'ffmpeg'</description>
+  <highlighted_element>ffmpeg</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>165</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>166</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>176</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>177</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>187</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>188</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Devpost'</description>
+  <highlighted_element>Devpost</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>199</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>200</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>8</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>211</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'skyclutch'</description>
+  <highlighted_element>skyclutch</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>212</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'skyclutch'</description>
+  <highlighted_element>skyclutch</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>222</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'mctx'</description>
+  <highlighted_element>mctx</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>223</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'mctx'</description>
+  <highlighted_element>mctx</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>233</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Mult'</description>
+  <highlighted_element>Mult</highlighted_element>
+  <language>XML</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml</file>
+  <line>234</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/idea-inspection/SpellCheckingInspection.xml" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Mult'</description>
+  <highlighted_element>Mult</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>43</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'callsign'</description>
+  <highlighted_element>callsign</highlighted_element>
+  <language>Markdown</language>
+  <offset>37</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>20</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'urllib'</description>
+  <highlighted_element>urllib</highlighted_element>
+  <language>textmate</language>
+  <offset>7</offset>
+  <length>6</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>21</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pathlib'</description>
+  <highlighted_element>pathlib</highlighted_element>
+  <language>textmate</language>
+  <offset>5</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>24</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'VERIF'</description>
+  <highlighted_element>VERIF</highlighted_element>
+  <language>textmate</language>
+  <offset>0</offset>
+  <length>5</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>40</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'urlopen'</description>
+  <highlighted_element>urlopen</highlighted_element>
+  <language>textmate</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>51</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'Popen'</description>
+  <highlighted_element>Popen</highlighted_element>
+  <language>textmate</language>
+  <offset>24</offset>
+  <length>5</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>53</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'DEVNULL'</description>
+  <highlighted_element>DEVNULL</highlighted_element>
+  <language>textmate</language>
+  <offset>36</offset>
+  <length>7</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>65</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'pageerror'</description>
+  <highlighted_element>pageerror</highlighted_element>
+  <language>textmate</language>
+  <offset>21</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>66</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'requestfailed'</description>
+  <highlighted_element>requestfailed</highlighted_element>
+  <language>textmate</language>
+  <offset>21</offset>
+  <length>13</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>68</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'SKYCLUTCH'</description>
+  <highlighted_element>SKYCLUTCH</highlighted_element>
+  <language>textmate</language>
+  <offset>45</offset>
+  <length>9</length>
+</problem><problem>
+  <file>file://$PROJECT_DIR$/verification/verify.py</file>
+  <line>124</line>
+  <module>cloud9-jetbrains</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/verification/verify.py" />
+  <problem_class id="SpellCheckingInspection" severity="TYPO" attribute_key="TYPO">Spelling</problem_class>
+  <description>Typo: In word 'gameover'</description>
+  <highlighted_element>gameover</highlighted_element>
+  <language>textmate</language>
+  <offset>49</offset>
+  <length>8</length>
+</problem>
+</problems>

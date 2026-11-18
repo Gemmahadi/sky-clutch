@@ -1,0 +1,46 @@
+IntelliJ IDEA Inspect Code — summary
+======================================
+Tool:    IntelliJ IDEA 2025.3 (build IU-253.28294.334), bundled JBR 21.0.8
+Command: idea.sh inspect <project> .idea/inspectionProfiles/Project_Default.xml <output>
+Runs:    3 runs on 18 Nov 2026. Run 1 on the first code version, runs 2-3 after fixes.
+         (Run 1 output was overwritten by the clean run 3; see below.)
+
+RUN 1 — real findings (all fixed afterwards):
+  1. JSValidateTypes, game.js: number assigned to textContent (statCombo)
+     -> fixed: String(...) wrappers on all numeric textContent assignments.
+  2. JSUnresolvedReference, game.js: window.webkitAudioContext
+     -> fixed: bracket access window['webkitAudioContext'] (legacy Safari fallback).
+  3. JSUnusedGlobalSymbols, game.js: unused function bestComboMult
+     -> fixed: deleted the leftover function.
+  4. UnnecessaryLocalVariableJS, game.js: redundant `base` in orbRadius()
+     and redundant `t` in updateHud()
+     -> fixed: inlined both.
+  5. JSJQueryEfficiency, game.js: 4x "Duplicated jQuery selector"
+     -> FALSE POSITIVE: `$` was our own getElementById helper, not jQuery.
+        Renamed the helper to byId() anyway, so the warnings are gone.
+  6. JSUnusedGlobalSymbols: window.SkyClutch debug API (getState, getScore, ...)
+     -> BY DESIGN: the hook is used by the Playwright tests (verification/verify.py),
+        not by in-page code. Kept intentionally.
+
+RUN 3 (final, clean output dir outside the repo) — no code findings at all:
+  - No JSUnresolvedReference / JSValidateTypes / UnnecessaryLocalVariableJS /
+    JSJQueryEfficiency / JSUnusedGlobalSymbols / CssUnusedSymbol output files
+    were produced for game.js, style.css, or index.html.
+  - Remaining output files:
+    * GrazieInspection.xml (9): prose style suggestions in README/docs
+      (hyphenation, commas) — suggestions, not errors; left as-is.
+    * SpellCheckingInspection.xml (77): almost entirely false positives —
+      code identifiers (urllib, pathlib), hex color codes (ffffff),
+      font names (Segoe), and stale references to the deleted run-1 output
+      files (IDEA's index still listed them). No real typos in user-facing text.
+    * Annotator.xml (1): "Valid XML document must have a root tag" on
+      .descriptions.xml — IDEA's own generated descriptions file, not our code.
+
+Notes:
+  - The IDE log shows SEVERE lines from InspectionsResultUtil about missing
+    descriptions for database inspections (Mongo/MySQL/Oracle) — a cosmetic
+    logging quirk of the headless inspection runner; the analysis itself
+    completed with exit code 0.
+  - IDEA's GUI was also used directly: project opened, game.js edited/viewed,
+    and the "Run Local Server" run configuration executed (see
+    idea-editor-gamejs.png and idea-run-server.png).

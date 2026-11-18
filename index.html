@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>SKY CLUTCH — Cloud9 Booth Aim Challenge</title>
+<meta name="description" content="SKY CLUTCH — a 60-second booth aim challenge. Pop sky orbs, dodge storm clouds, chase the Golden Cloud. Built for Cloud9 x JetBrains: Sky's The Limit Hackathon 2026, Category 3 (Event Mini Game).">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ======================= GAME FIELD ======================= -->
+  <div id="stage">
+    <canvas id="gameCanvas" aria-label="Game field"></canvas>
+
+    <!-- HUD (visible during play) -->
+    <div id="hud" class="hidden">
+      <div class="hud-left">
+        <div class="hud-label">SCORE</div>
+        <div id="hudScore" class="hud-value">0</div>
+        <div id="hudCombo" class="hud-combo">COMBO ×1</div>
+      </div>
+      <div class="hud-center">
+        <div id="hudTimer" class="hud-timer">60</div>
+        <div class="hud-label">SECONDS LEFT</div>
+      </div>
+      <div class="hud-right">
+        <div class="hud-label">BEST</div>
+        <div id="hudBest" class="hud-value">0</div>
+        <div id="hudGold" class="hud-gold">GOLD 0/2</div>
+      </div>
+    </div>
+
+    <!-- Floating score popups live inside the stage -->
+    <div id="popups"></div>
+
+    <!-- ======================= MENU SCREEN ======================= -->
+    <section id="menuScreen" class="screen">
+      <div class="menu-inner">
+        <div class="mascot-wrap">
+          <canvas id="mascotCanvas" width="180" height="140" aria-label="Nimbus, the Sky Clutch mascot"></canvas>
+        </div>
+        <h1 class="title">SKY <span>CLUTCH</span></h1>
+        <p class="subtitle">CLOUD9 BOOTH AIM CHALLENGE</p>
+        <p class="howto">Pop the glowing sky orbs. Dodge the storm clouds. Catch the Golden Cloud. 60 seconds — how high can you climb?</p>
+        <button id="playBtn" class="btn btn-big" type="button">▶&nbsp; PLAY</button>
+        <p class="keys-hint">Mouse / touch to pop &nbsp;·&nbsp; Space or Enter to start</p>
+        <button id="boardBtn" class="btn btn-ghost" type="button">🏆 LEADERBOARD</button>
+        <div class="mini-board">
+          <h2>TODAY'S TOP PILOTS</h2>
+          <ol id="miniBoard" class="board-list"></ol>
+        </div>
+        <p class="foot">An original mini game for the Cloud9 × JetBrains hackathon.<br>All art drawn in code · all sounds synthesized · no downloads needed.</p>
+      </div>
+    </section>
+
+    <!-- ======================= GAME OVER SCREEN ======================= -->
+    <section id="overScreen" class="screen hidden">
+      <div class="over-inner">
+        <h2 class="over-title">TIME'S UP!</h2>
+        <div id="rankBadge" class="rank-badge">ROOKIE</div>
+        <div class="final-score"><span id="finalScore">0</span><span class="final-label">POINTS</span></div>
+        <div class="stats-grid">
+          <div class="stat"><div class="stat-num" id="statHits">0</div><div class="stat-label">ORBS POPPED</div></div>
+          <div class="stat"><div class="stat-num" id="statAcc">0%</div><div class="stat-label">ACCURACY</div></div>
+          <div class="stat"><div class="stat-num" id="statCombo">×1</div><div class="stat-label">BEST COMBO</div></div>
+          <div class="stat"><div class="stat-num" id="statGold">0</div><div class="stat-label">GOLDEN CLOUDS</div></div>
+        </div>
+        <div id="newBest" class="new-best hidden">★ NEW DAILY BEST! ★</div>
+        <form id="nameForm" class="name-form">
+          <label for="nameInput">YOUR CALLSIGN (3 LETTERS)</label>
+          <div class="name-row">
+            <input id="nameInput" type="text" maxlength="3" value="ACE" autocomplete="off" spellcheck="false" aria-label="Your callsign, three letters">
+            <button id="saveScoreBtn" class="btn" type="submit">SAVE SCORE</button>
+          </div>
+          <p id="savedMsg" class="saved-msg hidden">✓ Saved to today's leaderboard!</p>
+        </form>
+        <div class="over-buttons">
+          <button id="againBtn" class="btn btn-big" type="button">↻&nbsp; PLAY AGAIN</button>
+          <button id="menuBtn" class="btn btn-ghost" type="button">MENU</button>
+        </div>
+        <div class="mini-board">
+          <h2>TODAY'S TOP PILOTS</h2>
+          <ol id="overBoard" class="board-list"></ol>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================= LEADERBOARD SCREEN ======================= -->
+    <section id="boardScreen" class="screen hidden">
+      <div class="board-inner">
+        <h2 class="board-title">🏆 SKY CLUTCH</h2>
+        <p class="board-sub">TODAY'S TOP 10 PILOTS · <span id="boardDate"></span></p>
+        <p class="board-note">Stored locally on this machine — no Wi-Fi needed.</p>
+        <ol id="bigBoard" class="board-list board-big"></ol>
+        <div class="over-buttons">
+          <button id="boardPlayBtn" class="btn btn-big" type="button">▶&nbsp; PLAY NOW</button>
+          <button id="boardMenuBtn" class="btn btn-ghost" type="button">BACK</button>
+        </div>
+        <p class="board-reset-note">Booth staff: press <kbd>R</kbd> to reset today's board.</p>
+      </div>
+    </section>
+  </div>
+
+  <footer id="appFooter">
+    <span>SKY CLUTCH · an original game · built with IntelliJ IDEA Community Edition</span>
+    <span id="footerBest">Daily best: 0</span>
+  </footer>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>

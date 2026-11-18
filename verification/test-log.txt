@@ -1,0 +1,16 @@
+server up on http://127.0.0.1:8123
+page ready, state=menu
+screenshot 01-menu.png
+game started (debug=fast, 10s round)
+screenshot 02-gameplay.png (mid-game)
+game over: score=1050 hits=27 shots=28 stormHits=1 gold=1 bestCombo=27 timer 10.0 -> 0.0
+screenshot 03-gameover.png
+leaderboard after save: [{"date": "2026-11-18", "score": 1050, "acc": 96, "combo": 27, "name": "TST"}]
+PLAY AGAIN reset verified: score=0, timer back to 10s
+second fast round completed (reset loop works end-to-end)
+screenshot 04-leaderboard.png (1 board rows)
+file:// load OK, state=menu, console errors=0
+mobile portrait: menu + PLAY tap OK
+console errors: 0 []
+failed requests: 0 []
+ALL CHECKS PASSED
